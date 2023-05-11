@@ -1,0 +1,125 @@
+*{
+    margin-top: 100px;
+    margin-left: 0px;
+    text-align: left;
+
+}
+#HeaderMenuBar {
+    position: fixed;
+    top: 0;
+    height: 90px;
+    width: 1900px;
+    display: flex;
+    align-items: center;
+    background: #ffffff;
+    opacity: 90%;
+}
+#LogoImg{
+    margin-left: 260px;
+    margin-right: 150px;
+
+}
+
+span{
+    color: #1e1e1e;
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    margin-right : 80px;
+}
+#LogIn{
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    padding: 7px 30px;
+    border: #1e1e1e 1px solid;
+    border-radius: 10px;
+}
+#HeaderBannerImg{
+    height: 350px;
+    width: 1500px;
+    margin-top: 30px;
+    margin-left: 200px;
+}
+#LogInImg{
+    width: 500px;
+    height: 200px;
+    margin-left: 250px;
+}
+#LogInput{
+    margin-left: 500px;
+    font-size: 35px;
+    color: #1e1e1e;
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 700;
+}
+#LogInId{
+    margin-top: 50px;
+    margin-left: 50px;
+    font-size: 25px;
+    border-radius: 15px;
+    padding: 10px;
+    font-family: 'Pretendard';
+    font-style: normal;
+}
+#LogInPassword{
+    margin-top: 20px;
+    font-size: 25px;
+    margin-left: 15px;
+    border-radius: 15px;
+    padding: 10px;
+    font-family: 'Pretendard';
+    font-style: normal;
+}
+#LoginButton{
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-size: 20px;
+    font-weight: 700;
+    color: #1e1e1e;
+    padding-left: 210px;
+    padding-right: 210px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 50px;
+    margin-left: 5px;
+}
+#FindId{
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-size: 15px;
+    font-weight: 600;
+    color: #1e1e1e;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    margin-left: 5px;
+}
+#FindPassword{
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-size: 15px;
+    font-weight: 600;
+    color: #1e1e1e;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    margin-left: 30px;
+}
+#NewMember{
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-size: 15px;
+    font-weight: 600;
+    color: #1e1e1e;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    margin-left: 30px;
+}
